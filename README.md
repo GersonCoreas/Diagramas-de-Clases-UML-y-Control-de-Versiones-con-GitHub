@@ -7,12 +7,7 @@ Práctica: Diagramas de Clases UML y Control de Versiones con GitHub
 
 
 # Integrantes del Equipo
-- **Jonathan Orlando Donis Ramirez** - Carnet: 25-3085-2020
-- Edwin Alexander López Alas
-Carnet: 25-1276-2025
-- Walter Josué Martinez Gómez - 25-0919-2025: 
-- **Karla Ivonne Lobato Portillo** - Carnet: 25-0013-2025 
-- **** - Carnet: 
+-Gerson Alberto Coreas Romero    2531622024
 
 # Estructura del Proyecto
 - /docs: Documentación técnica, diccionario de clases y justificaciones UML.
@@ -20,6 +15,6 @@ Carnet: 25-1276-2025
 
 
 # Casos Modelados
-1. **Caso 1:** Sistema de Gestión Hospitalaria Integral ("HealthFlow")
-2. **Caso 2:** Plataforma E-Commerce Omnicanal ("GlobalMarket")
-3. **Caso 3:** Gestión Académica y Campus Universitario ("UniCore")
+1. **Diagrama 1:** Sistema de Gestión Hospitalaria Integral ("HealthFlow")
+2. **Diagrama 2:** Plataforma E-Commerce Omnicanal ("GlobalMarket")
+3. **Diagrama 3:** Gestión Académica y Campus Universitario ("UniCore")
