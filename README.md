@@ -1,4 +1,4 @@
-# Diagramas-de-Clases-UML-y-Control-de-Versiones-con-GitHub
+# Diagramas de Máquinas de Estado UML en StarUML
 Práctica: Diagramas de Clases UML y Control de Versiones con GitHub
 
 # UNIVERSIDAD TECNOLÓGICA DE EL SALVADOR
