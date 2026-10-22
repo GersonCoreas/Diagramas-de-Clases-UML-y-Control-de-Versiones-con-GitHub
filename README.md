@@ -8,6 +8,7 @@ Práctica: Diagramas de Clases UML y Control de Versiones con GitHub
 
 # Integrantes del Equipo
 -Gerson Alberto Coreas Romero    2531622024
+
 -Alexa Nicole Marquez Fernandez  1739202025
 
 # Estructura del Proyecto
