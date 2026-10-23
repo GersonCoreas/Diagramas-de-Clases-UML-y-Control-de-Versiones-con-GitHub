@@ -11,7 +11,7 @@ Práctica: Diagramas de Clases UML y Control de Versiones con GitHub
 - Alexa Nicole Marquez Fernandez.    17-3920-2025
 - Juan Alberto Cisneros Ayala.       27-2794-2026
 - Angie Michelle Valencia Ramos.     25-1961-2026
--Claudia Carolina Martínez Pérez.    25-1225-2025
+- Claudia Carolina Martínez Pérez.    25-1225-2025
 
 
 # Estructura del Proyecto
