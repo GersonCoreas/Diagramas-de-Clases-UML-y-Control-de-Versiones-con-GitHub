@@ -10,6 +10,7 @@ Práctica: Diagramas de Clases UML y Control de Versiones con GitHub
 - Gerson Alberto Coreas Romero.      25-3162-2024
 - Alexa Nicole Marquez Fernandez.    17-3920-2025
 - Juan Alberto Cisneros Ayala.       27-2794-2026
+- Angie Michelle Valencia Ramos.     25-1961-2026
 
 
 # Estructura del Proyecto
